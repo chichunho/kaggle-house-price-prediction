@@ -1,6 +1,6 @@
 # House price prediction in Kaggle
 
-This is a Kaggle House Price Competition. The goal is to rpedict the house price through
+This is a Kaggle House Price Competition. The goal is to predict the house price through
 the given attributes.
 
 This repository contains:
