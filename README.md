@@ -10,7 +10,7 @@ This repository contains:
 
 ## Description
 
-Year: 2021
+Year: 2020
 
 House price are changing every day, we need a system to predict the house price in the future,
 which can help either home buyers or householders to understand how they can predict the sale price
