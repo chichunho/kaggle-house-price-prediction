@@ -4,17 +4,19 @@ This is a Kaggle House Price Competition. The goal is to rpedict the house price
 the given attributes.
 
 This repository contains:
-1. Brief introduction
+1. Description
 2. Dependencies
 3. Model selection and scores
 
-## Brief introduction
+## Description
 
 House price are changing every day, we need a system to predict the house price in the future,
 which can help either home buyers or householders to understand how they can predict the sale price
 of it or how to set the price respectively.
 
 ## Dependencies
+
+Language: R
 
 Following R packages are used:
 - e1071
